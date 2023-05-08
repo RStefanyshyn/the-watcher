@@ -1,2 +1,2 @@
 # the-watcher
-Building a animatroinc eye that tracks faces
+Building an animatroinc eye that tracks faces
